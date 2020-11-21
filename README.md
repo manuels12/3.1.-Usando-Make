@@ -1,4 +1,4 @@
-# 3.1.-B3.1 Usando MAKE (de GNU) para automatizar la Terminal  (Poner el Link de GiTHub Classroom)
+# 3.1.-B3.1 Usando MAKE (de GNU) para automatizar la Terminal.
 * * *
 ## MAKE (de GNU) para automatizar la Terminal  
 GNU Make es una herramienta que controla la generación de ejecutables y otros archivos no fuente de un programa a partir de los archivos fuente del programa.
